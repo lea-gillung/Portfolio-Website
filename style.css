@@ -686,7 +686,7 @@ div .work-none:target {
   border-radius: 25px;
 }
 
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 991px) {
   /* Teil 1: Header */
   
   .logo img {
